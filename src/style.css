@@ -3,6 +3,10 @@ body {
   background-color: rgb(6, 43, 6);
 }
 
+h1 {
+  text-align: center;
+}
+
 .card {
   margin-top: 400px;
   background-color: white;
@@ -28,14 +32,14 @@ body {
   margin-top: 5px;
 }
 
+.numb {
+  font-size: 190px;
+  align-self: center;
+  bottom: 20px;
+}
+
 .abajo {
   font-size: 80px;
   display: flex-end;
   transform: rotate(180deg);
-}
-
-.number {
-  font-size: 190px;
-  align-self: center;
-  bottom: 20px;
 }
